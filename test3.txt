@@ -1,4 +1,4 @@
-ûפגאןאגûן
+TUT BUDET CONFLICT 
 
 ûפגאןאגûן
 ûפגאןאגûןûפגאןאגû
@@ -6,5 +6,11 @@
 
 134
 
+<<<<<<< HEAD
 
 This is new branch test 2 mf 123
+=======
+567
+
+גûפלאפûגלפûגל
+>>>>>>> master
